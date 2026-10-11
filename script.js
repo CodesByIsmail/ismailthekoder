@@ -87,7 +87,15 @@ const articles = [
     title: 'The MVC Architecture',
     coverImgUrl: '/images/articles-coverimage/mvc-cover.png',
     liveUrl: 'https://ismailthekoder.hashnode.dev/the-mvc-architecture'
-}, ]
+},
+
+{
+    title: 'My Experience With Learning Javascript',
+    coverImgUrl: '/images/articles-coverimage/js-exper-cover.png',
+    liveUrl: 'https://ismailthekoder.hashnode.dev/my-experience-with-learning-javascript'
+}
+    
+]
 
 // <a href="${pro.gitUrl}">Code <svg width="24" height="24"><use href="/images/icons.svg#icon-github"></use></svg></a>
 
